@@ -46,11 +46,4 @@ deployed as an interactive Streamlit dashboard.
 - `Afficionado Coffee Roasters.csv` — Raw transaction dataset
 - `Afficionado_Coffee_Complete_Code.ipynb` — Complete analysis notebook
 
-## 👩‍💻 Author
-Sandhya N (ENG22CS0439)
-Department of Computer Science and Engineering
-Dayananda Sagar University
 
-Internship at Unified Mentor Pvt. Ltd., Haryana
-Role: Data Analyst Intern
-Duration: 01/02/2026 to 01/05/2026
